@@ -51,8 +51,8 @@
 
 For more advanced syntax, go to [guides.github](https://guides.github.com/features/mastering-markdown/)
 
-Lien vers la présentation [MarkDown](https://github.com/Abderzorai/exercice-markdown/blob/master/markdown.md)
+Lien vers la présentation [MarkDown](https://github.com/Abderzorai/exercice-markdown/blob/master/markdown.md)  
 
-<script type="text/javascript">
-    alert("Bye !");
-</script>
+```javascript
+alert("Bye !");
+```
