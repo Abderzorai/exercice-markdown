@@ -21,14 +21,14 @@
 
 5. ### Ordered List :
   - 1\. First item  
-      1\. First item b
+        1\. First item b
   - 2\. Second Item
   - 3\. Third item
   - ...
 
 6. ### Unordered List :
   - \- First item  
-      \-First item b
+        \-First item b
   - \- Second Item
   - \- Third item
 
