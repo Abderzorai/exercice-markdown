@@ -37,7 +37,7 @@ Le **MarkDown** n’exige pas de connaissance en informatique pour être utilis�
 * [Link](https://lucidar.me/fr/markdown/markdown-links/) 
 * [List](https://lucidar.me/fr/markdown/markdown-lists/) 
 
-[MarkDown Syntax](https://github.com/Abderzorai/exercice-markdown/blob/master/markDownSyntax.md)
+Lien vers la syntax [MarkDown Syntax](https://github.com/Abderzorai/exercice-markdown/blob/master/markDownSyntax.md)
 
 
 
