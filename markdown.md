@@ -41,4 +41,4 @@ Lien vers la syntax [MarkDown Syntax](https://github.com/Abderzorai/exercice-mar
 
 
 
-![Giphy markdown](https://media0.giphy.com/media/3ohs7Ns2UQYJWPi9WM/giphy.gif?cid=ecf05e47scjwqq9lrb4fmryuvj8eqz3jqdq3ibbnblf4fpxy&rid=giphy.gif)
+![Giphy markdown](https://media2.giphy.com/media/MC6eSuC3yypCU/giphy.gif?cid=ecf05e47abb25fe3622fa8c32506efe243ce0a83d80a49f9&rid=giphy.gif)
