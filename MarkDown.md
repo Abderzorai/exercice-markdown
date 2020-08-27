@@ -7,7 +7,7 @@ Le **MarkDown** est un langage de balisage créé en 2004 par *John Gruber* et *
 ## Points positifs du MarkDown ##
 
 * Le poids des documents rédigés en **MarkDown** est léger.
-* Il est facile de converture un docuent édité en **MarkDown** à un document HTML.
+* Il est facile de convertire un document édité en **MarkDown** à un document HTML.
 
 ## Point négatif du MarkDown ##
 
