@@ -1,5 +1,7 @@
+# **Markdown** 
 
-# Le MarkDown #
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png) 
+
 
 ## Présentation ##
 
@@ -25,11 +27,6 @@ Le **MarkDown** n’exige pas de connaissance en informatique pour être utilis�
 * [openclassrooms](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
 
 
-
-# **Markdown** 
-
-![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png) 
-
 ## List of what you can do with markdown
 
 * [Citations](https://lucidar.me/fr/markdown/markdown-blockquotes/) 
@@ -39,6 +36,8 @@ Le **MarkDown** n’exige pas de connaissance en informatique pour être utilis�
 * [Image](https://lucidar.me/fr/markdown/markdown-images/) 
 * [Link](https://lucidar.me/fr/markdown/markdown-links/) 
 * [List](https://lucidar.me/fr/markdown/markdown-lists/) 
+
+[MarkDown Syntax](https://github.com/Abderzorai/exercice-markdown/blob/master/markDownSyntax.md)
 
 
 
